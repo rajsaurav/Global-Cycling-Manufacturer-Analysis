@@ -1,6 +1,6 @@
 # Global-Cycling-Manufacturer-Analysis
 
-This Power BI project is a comprehensive analysis and visualization of the Adventure Works Bike Shop data. It's designed as a practical application of the skills taught in the "Power BI Desktop 2023" course by Maven Analytics on Udemy. Key features of this project include:
+This Power BI project is a comprehensive analysis and visualization based on the Adventure Works Bike Shop data. It's designed as a practical application of the skills taught in the "Power BI Desktop 2023" course by Maven Analytics on Udemy. Key features of this project include:
 
 Interactive Dashboards: Customized dashboards providing insightful metrics and KPIs relevant to the bike shop's operations.
 Data Models: Well-structured data models that integrate various data sources for a holistic view of the business.
@@ -40,7 +40,9 @@ Use Power BI Desktop to:
 
 ![Customer Details](https://github.com/rajsaurav/Global-Cycling-Manufacturer-Analysis/assets/35574674/c211f31c-f3f8-4222-9491-17c4aab6ee74)
 
+# Link
 
+Link To the Interactive Dashboard - [Link](https://www.novypro.com/project/cycling-manufacturer-product-insights--customer-details-power-bi)
 
 
 
