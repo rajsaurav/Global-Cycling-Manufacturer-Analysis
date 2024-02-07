@@ -42,7 +42,7 @@ Use Power BI Desktop to:
 
 # Link
 
-Link To the Interactive Dashboard - [Link](https://www.novypro.com/project/cycling-manufacturer-product-insights--customer-details-power-bi)
+Link to the Interactive Dashboard - [Link](https://www.novypro.com/project/cycling-manufacturer-product-insights--customer-details-power-bi)
 
 
 
