@@ -44,5 +44,16 @@ Use Power BI Desktop to:
 
 Link to the Interactive Dashboard - [Link](https://www.novypro.com/project/cycling-manufacturer-product-insights--customer-details-power-bi)
 
+# Key Insights
+- Revenue is the highest during June and it drastically dips and is lowest in July
+- Clothing is the category with the least orders
+- The metrics are lagging behind in their monthly targets
+
+# Recommendations
+- Need to improve the quality of the products in clothing category based on customer feedback
+- The major chunk of orders come from low and average income level customers. Feedback from these customers will help in attacting more customers and expand the business. 
+- Focus on quality and quantity for accessories as maximum number of orders come for this category.
+- Expanding into other countries by collaborating with local businesses in that country. 
+  
 
 
