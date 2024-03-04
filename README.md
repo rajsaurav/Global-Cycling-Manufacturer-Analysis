@@ -1,4 +1,4 @@
-# Global-Cycling-Sales and Product-Analysis
+# Global-Cycling-Sales-and-Product-Analysis
 
 This Power BI project is a comprehensive analysis and visualization based on the Adventure Works Bike Shop data. It's designed as a practical application of the skills taught in the "Power BI Desktop 2023" course by Maven Analytics on Udemy. Key features of this project include:
 
