@@ -51,7 +51,7 @@ Link to the Interactive Dashboard - [Link](https://www.novypro.com/project/cycli
 
 # Recommendations
 - Need to improve the quality of the products in clothing category based on customer feedback
-- The major chunk of orders come from low and average income level customers. Feedback from these customers will help in attacting more customers and expand the business. 
+- The major chunk of orders come from low and average income level customers. Feedback from these customers will help in attracting more customers and expand the business. 
 - Focus on quality and quantity for accessories as maximum number of orders come for this category.
 - Expanding into other countries by collaborating with local businesses in that country. 
   
